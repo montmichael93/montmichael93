@@ -1,11 +1,11 @@
 Hello
 
-My name Is MontMichael and I enjoy webdev, git and light novels
+My name Is MontMichael and I enjoy React, NextJs and Light novels
 
-I am currently learning HTML, CSS and Git
+Apiring Full Stack Developer
 
 current Projects: 
 
 
 
-https://github.com/montmichael93/my_first_git_repo
+https://curtis-made-it.vercel.app/
