@@ -9,7 +9,7 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>
+> <b>I am a highly motivated Full Stack Developer with strong expertise in modern web technologies. I specialize in front-end frameworks like React, Angular, and Next.js, as well as back-end technologies such as Node.js, Express, NestJS, .NET (C#), and PHP with Laravel. With experience in building scalable microservices architectures and working with databases like MongoDB, MySQL, and SQL Server, I excel at developing efficient, high-performing applications. I am passionate about problem-solving, effective time management, and collaborating with cross-functional teams. Beyond coding, I enjoy socializing, learning new technologies, and embracing new experiences to continuously grow both professionally and personally.</b>
 
 ## 🛠️ Tech Stack:
 
